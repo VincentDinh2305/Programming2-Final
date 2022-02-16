@@ -1,0 +1,4 @@
+C:\Users\Vincent\Desktop\AccounsApp\obj\Debug\AccounsApp.csproj.AssemblyReference.cache
+C:\Users\Vincent\Desktop\AccounsApp\obj\Debug\AccounsApp.Properties.Resources.resources
+C:\Users\Vincent\Desktop\AccounsApp\obj\Debug\AccounsApp.csproj.GenerateResource.cache
+C:\Users\Vincent\Desktop\AccounsApp\obj\Debug\AccounsApp.csproj.CoreCompileInputs.cache
